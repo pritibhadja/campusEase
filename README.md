@@ -1,2 +1,2 @@
 # campusEase
-this is my first git repository
+The way to hassle- free campus life
